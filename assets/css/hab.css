@@ -1,0 +1,145 @@
+
+.Habilidades {
+    margin: 6%;
+    margin-top: 0px;
+    padding-left: 2%;
+    padding-right: 6%;
+    margin-bottom: 40px;
+    width: 100%;
+    padding-bottom:25px;
+    /* display: block; */
+}
+.Habilidades strong {
+    margin-top: -100px;
+}
+.Habilidades P {
+    width: 10%;
+    text-align: left;
+    font-size: 15px;
+    margin-left: 50px;
+    margin-bottom: 0PX;
+}
+.Habilidades .rda {
+    padding: 4px;
+    border-radius: 0px;
+    /* float: left; */
+    margin-bottom: 0px;
+    /* width: 70%; */
+    /* margin-left: 50px; */
+    background: rgba(255, 255, 255, 0.459);
+    padding-right: 100px;
+    padding-right: 100px;
+}
+.Habilidades .rdah {
+    list-style: square;
+    width: 1%;
+    /* float: left; */
+    background: rgba(133, 182, 36, 0.685);
+}
+.Habilidades .rdah2 {
+    list-style: square;
+    width: 85.15%;
+    /* float: left; */
+    background: rgba(133, 182, 36, 0.685);
+    transition: 1.5s;
+}
+.Habilidades .rdaah {
+    list-style: square;
+    width: 1%;
+    /* float: left; */
+    background: rgba(133, 182, 36, 0.685);
+}
+.Habilidades .rdaah2 {
+    list-style: square;
+    width: 85.15%;
+    /* float: left; */
+    background: rgba(133, 182, 36, 0.685);
+    transition: 1.5s;
+}
+.Habilidades .brdah {
+    list-style: square;
+    width: 1%;
+    /* float: left; */
+    background: rgba(133, 182, 36, 0.685);
+}
+.Habilidades .brdah2 {
+    list-style: square;
+    width: 85.15%;
+    /* float: left; */
+    background: rgba(133, 182, 36, 0.685);
+    transition: 1.5s;
+}
+.Habilidades .jrdah {
+    list-style: square;
+    width: 1%;
+    /* float: left; */
+    background: rgba(133, 182, 36, 0.685);
+}
+.Habilidades .jrdah2 {
+    list-style: square;
+    width: 45.03%;
+    /* float: left; */
+    background: rgba(133, 182, 36, 0.685);
+    transition: 1.5s;
+}
+
+
+.Habilidades .nrpr {
+    padding-left: 75%;
+    text-align: right;
+}
+
+
+
+
+@media (max-width: 832px){
+    .QuienSoy {
+        width: 85%;
+        float: none;
+        display: block;
+        margin: 3%;
+    }
+    .Contacto {
+        display: none;
+    }
+    .Contacto2 {
+        display: block;
+        width: 95%;
+        padding-bottom: 10px;
+    }
+    .Contacto2 ul li {
+        margin: 5px;
+        margin-bottom: 0px;
+        margin-top: 0px;
+        }
+    .Contacto1_2 {
+        display: none;
+    }
+    
+    .proyecto {
+        padding: 0px;
+    }
+    .proyecto h4 {
+        padding-top: 20px;
+    }
+    .proyecto img {
+        width: 185px;
+    }
+} 
+@media (max-width: 600px){
+    .QuienSoy {
+        width: 84%
+    }
+}
+
+@media (max-width: 480px){
+    .QuienSoy {
+        width: 80%;
+    }
+    .proyecto {
+        padding: 0px;
+    }
+    .proyecto img {
+        width: 150px;
+}
+}
