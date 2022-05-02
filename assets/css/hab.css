@@ -114,6 +114,15 @@
 .isotope-item {
     width: 43%;
 }
+figcaption h4 {
+font-size: 15px ;
+}
+figcaption a{
+    font-size: 10px;
+}
+span .opendoc{
+    font-size: 10px;
+}
     /*  */
     .Habilidades .rdah2 {
         width: 100%;

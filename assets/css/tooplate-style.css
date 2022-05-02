@@ -42,7 +42,7 @@ a:hover {
 p {
 	letter-spacing: 0.5px;
     line-height: 2em;
-    text-shadow: #000 0.1em 0.1em;
+    text-shadow: #000 0.07em 0.07em;
     color: #fff;
     text-align: justify;
 }
@@ -160,7 +160,7 @@ html {
 	text-transform: uppercase;
 }
 span {
-    text-shadow: #000 0.1em 0.1em;
+    text-shadow: #000 0.07em 0.07em;
 }
 
 .menu .author-content span {
