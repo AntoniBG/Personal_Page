@@ -21,7 +21,7 @@
 }
 .Habilidades .rda {
     padding: 4px;
-    border-radius: 0px;
+    border-radius: 6px;
     /* float: left; */
     margin-bottom: 0px;
     /* width: 70%; */
@@ -102,6 +102,20 @@
     .Contacto {
         display: none;
     }
+    /*  */
+    .Habilidades .rdah2 {
+        width: 100%;
+    }
+    .Habilidades .rdaah2 {
+        width: 100%;
+    }
+    .Habilidades .brdah2 {
+        width: 100%;
+    }
+    .Habilidades .jrdah2 {
+        width: 65.03%;
+    }
+    /*  */
     .Contacto2 {
         display: block;
         width: 95%;
