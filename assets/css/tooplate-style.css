@@ -42,7 +42,9 @@ a:hover {
 p {
 	letter-spacing: 0.5px;
     line-height: 2em;
+    text-shadow: #000 0.1em 0.1em;
     color: #fff;
+    text-align: justify;
 }
 
 h4 {
@@ -50,6 +52,7 @@ h4 {
     font-weight: 700;
     color: #fff;
     letter-spacing: 0.5px;
+    text-shadow: #000  0.1em 0.1em;
 }
 
 img {
@@ -155,6 +158,9 @@ html {
 .menu .author-content h4 {
     margin-bottom: 0px;
 	text-transform: uppercase;
+}
+span {
+    text-shadow: #000 0.1em 0.1em;
 }
 
 .menu .author-content span {
@@ -305,6 +311,7 @@ html {
 }
 section h2 {
 padding-top: 0px;
+text-shadow: #000 0.1em 0.15em;
 }
 .section-habilidades {
     text-align: left;
@@ -384,7 +391,7 @@ button:hover {
 
 .left-image img,
 .right-image img {
-    margin-left: -35px;
+    margin-left: 0px;
     width: 250px;
     border-radius: 20px;
 }
@@ -466,10 +473,12 @@ button:hover {
     position: relative;
     width: 100%;
     margin: auto;
+    
 }
 
 .isotope-toolbar input[type="radio"] {
     display: none;
+    
 }
 
 .isotope-toolbar span {
@@ -555,12 +564,14 @@ figure.snip1321 h4 {
     margin-top: 15px;
   margin-bottom: 5px;
   color: #232323;
+  text-shadow: none;
 }
 figure.snip1321 span {
     font-size: 14px;
     font-style: italic;
     display: block;
     color: #7a7a7a;
+    text-shadow: none;
 }
 figure.snip1321 i {
   position: relative!important;
