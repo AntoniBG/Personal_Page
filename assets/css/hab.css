@@ -102,6 +102,15 @@
     .Contacto {
         display: none;
     }
+/*  */
+.right-image img {
+    margin-left: 20%;
+    width: 250px;
+    border-radius: 20px;
+    align-items: center;
+}
+
+/*  */
     /*  */
     .Habilidades .rdah2 {
         width: 100%;
